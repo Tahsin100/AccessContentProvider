@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Access ContentProvider</string>
+    <string name="add_movies">ADD MOVIES</string>
+    <string name="show_movies">SHOW MOVIES</string>
+    <string name="title_movie_list">Movie List</string>
+    <string name="title_add_movies">Add Movies</string>
+    <string name="year">Year</string>
+    <string name="save">Save</string>
+</resources>
