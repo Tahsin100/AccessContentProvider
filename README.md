@@ -1,8 +1,8 @@
 # AccessContentProvider
 
-This is a support application for TestContentProvider app.
+This is a support application for ContentProviderT app.
 
 Functionalities:
 
-1. Add data to TestContentProvider.
-2. Fetch & show data from TestContentProvider.
+1. Add data to ContentProviderT.
+2. Fetch & show data from ContentProviderT.
